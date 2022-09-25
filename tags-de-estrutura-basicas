@@ -1,0 +1,29 @@
+## <!DOCTYPE html>
+Informa ao navegador que estamos ultilizando o html mais atual.
+
+
+## <html lang="pt-br">
+Informa ao navegador o idioma padrão, no caso usado português do Brasil.
+
+
+## <head>
+Nesta tag fica as informações que o navegador ira usar.
+
+
+## <meta tags> As principais:
+
+
+***<meta charset="UTF-8">*** Corrige acentuação
+***<meta http-equiv="X-UA-Compatible" content="IE=edge">*** Suporte ao navegador Internet Explore
+***<meta name="viewport" content="width=device-width, initial-scale=1.0">***
+Indentificar qual tipo de dispositivo o usuario está usando, fazendo assim a adptação de tela.
+***<meta name="descripition" contente="Esse é meu site teste!">***
+Reponsavel pela descrição do site.
+***<meta name="keywords" contente="alimentos saudaveis, etc">***
+São palavras chaves, fazem ou faziam que nosso site fosse encontrado em buscas. 
+***<meta name="author" contente="Jonathan Mitchell">***
+Nome do autor daquele site.
+ 
+
+<body>
+Aqui fica toda informação visivel ao usuario.
